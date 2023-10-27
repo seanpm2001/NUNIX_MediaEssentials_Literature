@@ -1,1 +1,1 @@
- The new approach to Git repo templates, an ultimate template culminated in less than 2 weeks that combines all template categories into one. A very powerful Git template. 
+🧠️🎞️📙️ The official core source repository for the literature chapter of the NUNIX MediaEssentials project, containing timeless, very important literature that is essential to human knowledge/culture.
