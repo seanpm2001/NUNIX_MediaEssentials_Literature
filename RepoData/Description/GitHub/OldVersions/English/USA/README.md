@@ -1,0 +1,1 @@
+🧠️🎞️📙️ The official core source repository for the literature chapter of the NUNIX MediaEssentials project, containing timeless, very important literature that is essential to human knowledge/culture.
